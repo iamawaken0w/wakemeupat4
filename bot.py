@@ -1,2 +1,1 @@
-import os
-os.pwd()
+print("hello heroku")
